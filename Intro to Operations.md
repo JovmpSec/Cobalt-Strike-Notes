@@ -2,4 +2,5 @@
 
 
 Red Team Engagement 
-	Post-Exploitation - the phase of a Red Team Engagement where
+	Post-Exploitation - the phase of a Red Team Engagement where we complete our objectives 
+		A successful Post-Exploitation Phase implies positive 
