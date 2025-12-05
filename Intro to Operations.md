@@ -1,0 +1,1 @@
+Raphael Mudge - creator of Cobalt Strike 
